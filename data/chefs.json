@@ -1,0 +1,77 @@
+{
+    "thai_chefs": [
+      {
+        "id": 1,
+        "name": "Somsri Wong",
+        "picture": "somsri_wong.jpg",
+        "years_of_experience": 6,
+        "number_of_recipes": 5,
+        "number_of_likes": 25000
+      },
+      {
+        "id": 2,
+        "name": "Chatchai Phanom",
+        "picture": "chatchai_phanom.jpg",
+        "years_of_experience": 9,
+        "number_of_recipes": 4,
+        "number_of_likes": 31000
+      },
+      {
+        "id": 3,
+        "name": "Achara Tantivit",
+        "picture": "achara_tantivit.jpg",
+        "years_of_experience": 4,
+        "number_of_recipes": 6,
+        "number_of_likes": 18500
+      },
+      {
+        "id": 4,
+        "name": "Narongrit Chaiwong",
+        "picture": "narongrit_chaiwong.jpg",
+        "years_of_experience": 2,
+        "number_of_recipes": 3,
+        "number_of_likes": 12500
+      },
+      {
+        "id": 5,
+        "name": "Pimchanok Prasit",
+        "picture": "pimchanok_prasit.jpg",
+        "years_of_experience": 5,
+        "number_of_recipes": 6,
+        "number_of_likes": 22000
+      },
+      {
+        "id": 6,
+        "name": "Vichan Pongsupa",
+        "picture": "vichan_pongsupa.jpg",
+        "years_of_experience": 8,
+        "number_of_recipes": 4,
+        "number_of_likes": 40000
+      },
+      {
+        "id": 7,
+        "name": "Somchai Charoen",
+        "picture": "somchai_charoen.jpg",
+        "years_of_experience": 7,
+        "number_of_recipes": 5,
+        "number_of_likes": 28000
+      },
+      {
+        "id": 8,
+        "name": "Nittaya Khamphong",
+        "picture": "nittaya_khamphong.jpg",
+        "years_of_experience": 3,
+        "number_of_recipes": 4,
+        "number_of_likes": 15000
+      },
+      {
+        "id": 9,
+        "name": "Ananya Srikanchana",
+        "picture": "ananya_srikanchana.jpg",
+        "years_of_experience": 10,
+        "number_of_recipes": 5,
+        "number_of_likes": 34000
+      }
+    ]
+  }
+  
