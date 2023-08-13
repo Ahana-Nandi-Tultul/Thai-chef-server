@@ -24,8 +24,14 @@ app.get('/recipes', (req, res) => {
 app.get('/recipes/:chefId', (req, res) => {
     const chefId = parseInt(req.params.chefId);
     console.log(chefId);
-    const selectedRecipes = recipes.filter(re => parseInt(re.chef_id) === chefId);
-    res.send(selectedRecipes);
+    if(chefId === 0){
+        res.send(recipes);
+    }
+    else{
+
+        const selectedRecipes = recipes.filter(re => parseInt(re.chef_id) === chefId);
+        res.send(selectedRecipes);
+    }
 })
 
 app.listen(port, () => {
