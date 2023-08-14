@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
 const chefs = require('./data/chefs.json');
+const thaiChefs = chefs.thai_chefs;
 const thai_foods = require('./data/recipes.json');
 const recipes = thai_foods.thai_foods;
 
@@ -15,6 +16,18 @@ app.get('/', (req, res) => {
 
 app.get('/chefs', (req, res) => {
     res.send(chefs);
+})
+
+app.get('/chefs/:id', (req, res) => {
+    const chefId = parseInt(req.params.id);
+    console.log(chefId);
+    if(chefId === 0){
+        res.send(chefs)
+    }
+    else{
+        const specificChef = thaiChefs.find(chef => chef.id === chefId);
+        res.send(specificChef);
+    }
 })
 
 app.get('/recipes', (req, res) => {

@@ -3,7 +3,7 @@
       {
         "id": 1,
         "name": "Pad Thai",
-        "image": "pad_thai.jpg",
+        "image": "https://images.unsplash.com/photo-1626804475297-41608ea09aeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "ingredients": ["Rice Noodles", "Tofu", "Shrimp", "Eggs", "Bean Sprouts"],
         "cooking_method": "Pad Thai is a classic Thai stir-fried noodle dish that brings together a medley of ingredients. Thin rice noodles are stir-fried with tender tofu, succulent shrimp, scrambled eggs, and crunchy bean sprouts. The dish is seasoned with a flavorful sauce made from tamarind, fish sauce, and palm sugar. A squeeze of lime and a sprinkle of ground peanuts add a finishing touch. The combination of textures and the harmonious balance of sweet, sour, and savory flavors make Pad Thai a beloved and iconic Thai dish.",
         "rating": 4.8,
@@ -12,7 +12,7 @@
       {
         "id": 2,
         "name": "Tom Yum Goong",
-        "image": "tom_yum_goong.jpg",
+        "image": "https://images.unsplash.com/photo-1628430043175-0e8820df47c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
         "ingredients": ["Shrimp", "Lemongrass", "Kaffir Lime Leaves", "Galangal", "Chili"],
         "cooking_method": "Tom Yum Goong is a tantalizing Thai soup that captures the essence of Thai cuisine's vibrant flavors. Succulent shrimp are simmered in a fragrant broth infused with aromatic lemongrass, kaffir lime leaves, and galangal. Fresh Thai chili peppers add a touch of heat, while a squeeze of lime juice brightens the dish. The combination of tangy, spicy, and citrusy notes creates a truly invigorating and comforting soup.",
         "rating": 4.7,
@@ -21,7 +21,7 @@
       {
         "id": 3,
         "name": "Green Curry",
-        "image": "green_curry.jpg",
+        "image": "https://images.unsplash.com/photo-1594756202469-9ff9799b2e4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80",
         "ingredients": ["Chicken", "Thai Eggplant", "Bamboo Shoots", "Green Chili", "Coconut Milk"],
         "cooking_method": "Green Curry, known as 'Gaeng Keow Wan' in Thai, is a luscious and aromatic dish that showcases the art of Thai curry making. Tender chicken is simmered in a vibrant green curry sauce made from a paste of green chili, aromatic herbs, and spices. Thai eggplant and bamboo shoots add layers of texture and flavor to the dish. The creamy coconut milk base balances the spiciness, resulting in a harmonious and satisfying curry experience.",
         "rating": 4.9,
@@ -30,7 +30,7 @@
       {
         "id": 4,
         "name": "Som Tum",
-        "image": "som_tum.jpg",
+        "image": "https://images.unsplash.com/photo-1648421331147-9fcfab29536e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "ingredients": ["Green Papaya", "Tomatoes", "Peanuts", "Fish Sauce", "Lime Juice"],
         "cooking_method": "Som Tum, or Green Papaya Salad, is a refreshing and zesty Thai salad that combines crisp green papaya with a burst of flavors. Shredded green papaya is mixed with juicy tomatoes, roasted peanuts, and fragrant herbs. The dressing, a blend of fish sauce, lime juice, chili, and palm sugar, adds a tangy and spicy kick. The salad's vibrant colors and vibrant tastes make it a popular choice for those seeking a light yet flavorful dish.",
         "rating": 4.6,
@@ -39,7 +39,7 @@
       {
         "id": 5,
         "name": "Massaman Curry",
-        "image": "massaman_curry.jpg",
+        "image": "https://images.unsplash.com/photo-1672933036331-e27ffae157bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWFzc2FtYW4lMjBDdXJyeSUyMHRoYWklMjBmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["Beef", "Potatoes", "Onions", "Peanuts", "Massaman Curry Paste"],
         "cooking_method": "Massaman Curry is a sumptuous Thai curry that embodies a blend of Thai and Indian influences. Tender beef is slow-cooked with chunks of potatoes and onions in a rich and fragrant curry sauce. The sauce is made from Massaman curry paste, which combines aromatic spices with coconut milk for a creamy and savory result. The addition of roasted peanuts adds a delightful crunch to each bite, making this curry a comfort food favorite.",
         "rating": 4.8,
@@ -48,7 +48,7 @@
       {
         "id": 6,
         "name": "Pad Krapow Moo Saap",
-        "image": "pad_krapow_moo_saap.jpg",
+        "image": "https://images.unsplash.com/photo-1562565652-a0d8f0c59eb4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
         "ingredients": ["Ground Pork", "Thai Basil", "Chili", "Garlic", "Fish Sauce"],
         "cooking_method": "Pad Krapow Moo Saap, or Thai Basil Pork Stir-Fry, is a flavorful and aromatic dish that showcases the bold flavors of Thai cuisine. Ground pork is stir-fried with fragrant Thai basil, spicy chili, and pungent garlic. The dish is seasoned with fish sauce, which contributes a savory umami depth. The result is a dish that's both visually appealing and explosively flavorful, perfect for those who enjoy a harmonious blend of bold and aromatic tastes.",
         "rating": 4.7,
@@ -57,7 +57,7 @@
       {
         "id": 7,
         "name": "Gaeng Daeng",
-        "image": "gaeng_daeng.jpg",
+        "image": "https://images.unsplash.com/photo-1580212206172-dbea2d1b64dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "ingredients": ["Chicken", "Red Curry Paste", "Coconut Milk", "Thai Eggplant", "Kaffir Lime Leaves"],
         "cooking_method": "Gaeng Daeng, or Red Curry, is a bold and flavorful Thai curry that captures the essence of Thai cuisine's complexity. Tender chicken is simmered in a velvety red curry sauce made from red curry paste and creamy coconut milk. Thai eggplant and kaffir lime leaves contribute unique textures and aromas to the dish. The resulting curry is a symphony of flavors that's both comforting and adventurous.",
         "rating": 4.7,
@@ -66,7 +66,7 @@
       {
         "id": 8,
         "name": "Khao Pad",
-        "image": "khao_pad.jpg",
+        "image": "https://images.unsplash.com/photo-1655091273851-7bdc2e578a88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
         "ingredients": ["Jasmine Rice", "Chicken", "Onions", "Eggs", "Soy Sauce"],
         "cooking_method": "Khao Pad, or Thai Fried Rice, is a staple dish that celebrates the simple yet satisfying flavors of Thai home cooking. Fragrant jasmine rice is stir-fried with tender pieces of chicken, sliced onions, and scrambled eggs. The dish is seasoned with soy sauce for a savory and umami-rich taste. A dash of white pepper adds a hint of warmth to each bite. Khao Pad is a comforting and versatile dish that's perfect for any meal.",
         "rating": 4.5,
@@ -75,7 +75,7 @@
       {
         "id": 9,
         "name": "Pad See Ew",
-        "image": "pad_see_ew.jpg",
+        "image": "https://images.unsplash.com/photo-1644131447615-6a571909d299?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
         "ingredients": ["Flat Rice Noodles", "Chicken", "Broccoli", "Dark Soy Sauce", "Eggs"],
         "cooking_method": "Pad See Ew is a delightful Thai noodle dish that offers a satisfying combination of textures and flavors. Flat rice noodles are stir-fried with tender chicken, crisp broccoli florets, and scrambled eggs. The dish is seasoned with dark soy sauce, imparting a rich color and savory taste. The result is a comforting and balanced noodle stir-fry that's both hearty and delicious.",
         "rating": 4.6,
@@ -84,7 +84,7 @@
       {
         "id": 10,
         "name": "Yam Nua",
-        "image": "yam_nua.jpg",
+        "image": "https://images.unsplash.com/photo-1569562211093-4ed0d0758f12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "ingredients": ["Beef", "Mint Leaves", "Onions", "Lime Juice", "Chili"],
         "cooking_method": "Yam Nua, or Thai Beef Salad, is a refreshing and invigorating dish that balances the rich flavors of grilled beef with vibrant herbs and spices. Thin slices of grilled beef are tossed with fresh mint leaves, sliced onions, and a zesty dressing made from lime juice and chili. The combination of juicy beef, aromatic herbs, and tangy dressing creates a tantalizing contrast of flavors and textures.",
         "rating": 4.7,
@@ -93,7 +93,7 @@
       {
         "id": 11,
         "name": "Pla Rad Prik",
-        "image": "pla_rad_prik.jpg",
+        "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
         "ingredients": ["Fish", "Chili Paste", "Garlic", "Pepper", "Fish Sauce"],
         "cooking_method": "Pla Rad Prik is a delectable Thai dish that showcases the flavors of tender fish complemented by a bold and flavorful sauce. The fish is deep-fried until crispy and then coated with a spicy and aromatic chili paste, garlic, and black pepper mixture. A dash of fish sauce adds a savory depth to the dish. Pla Rad Prik offers a harmonious balance of crispy textures and bold flavors.",
         "rating": 4.5,
@@ -102,7 +102,7 @@
       {
         "id": 12,
         "name": "Gaeng Jued",
-        "image": "gaeng_jued.jpg",
+        "image": "https://plus.unsplash.com/premium_photo-1669150852121-19bab9ca75f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["Tofu", "Cabbage", "Carrots", "Mushrooms", "Clear Broth"],
         "cooking_method": "Gaeng Jued, or Thai Clear Soup, is a delicate and soothing dish that highlights the purity of flavors. Silken tofu, tender cabbage, sliced carrots, and mushrooms are simmered in a clear and flavorful broth. The result is a light and nourishing soup that's both comforting and satisfying. Gaeng Jued is a beloved option for those seeking a wholesome and wholesome soup.",
         "rating": 4.4,
@@ -111,7 +111,7 @@
       {
         "id": 13,
         "name": "Pad Ped",
-        "image": "pad_ped.jpg",
+        "image": "https://images.unsplash.com/photo-1637806930600-37fa8892069d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["Chicken", "Red Curry Paste", "Green Beans", "Kaffir Lime Leaves", "Basil"],
         "cooking_method": "Pad Ped is a vibrant Thai stir-fry that showcases the bold and aromatic flavors of Thai cuisine. Tender pieces of chicken are stir-fried with a medley of ingredients including fiery red curry paste, crisp green beans, fragrant kaffir lime leaves, and fresh basil leaves. The result is a dish that's both visually appealing and bursting with bold and complex flavors.",
         "rating": 4.6,
@@ -120,7 +120,7 @@
       {
         "id": 14,
         "name": "Mango Sticky Rice",
-        "image": "mango_sticky_rice.jpg",
+        "image": "https://images.unsplash.com/photo-1521633138793-76551d05e2a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["Sticky Rice", "Mango", "Coconut Milk", "Sugar", "Sesame Seeds"],
         "cooking_method": "Mango Sticky Rice is a beloved Thai dessert that combines the luscious sweetness of ripe mangoes with the comforting richness of sticky rice. The sticky rice is cooked to perfection and then drizzled with a creamy coconut milk sauce. Slices of ripe mango are artfully arranged on top, adding a burst of vibrant color and natural sweetness. A sprinkle of toasted sesame seeds provides a delightful nutty crunch to this delightful dessert.",
         "rating": 4.9,
@@ -129,7 +129,7 @@
       {
         "id": 15,
         "name": "Gai Yang",
-        "image": "gai_yang.jpg",
+        "image": "https://images.unsplash.com/photo-1607330289024-1535c6b4e1c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["Chicken", "Coriander", "Garlic", "Fish Sauce", "Lemongrass"],
         "cooking_method": "Gai Yang, or Thai Grilled Chicken, is a succulent and flavorful dish that captures the essence of Thai street food. Chicken pieces are marinated in a mixture of coriander, garlic, fish sauce, and fragrant lemongrass. The marinated chicken is then grilled to perfection, resulting in tender meat with a smoky and charred exterior. Gai Yang is often served with a dipping sauce and sticky rice, making it a popular and satisfying meal.",
         "rating": 4.8,
@@ -138,7 +138,7 @@
       {
         "id": 16,
         "name": "Gaeng Massaman",
-        "image": "gaeng_massaman.jpg",
+        "image": "https://images.unsplash.com/photo-1555126634-323283e090fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
         "ingredients": ["Chicken", "Potatoes", "Onions", "Peanuts", "Massaman Curry Paste"],
         "cooking_method": "Gaeng Massaman, or Massaman Curry, is a rich and aromatic Thai curry that showcases a harmonious blend of flavors. Tender chicken is simmered with chunks of potatoes and onions in a velvety curry sauce. The sauce is made from Massaman curry paste, which features a combination of fragrant spices and coconut milk for a creamy and comforting taste. The addition of roasted peanuts adds a delightful crunch and a unique textural dimension to the dish.",
         "rating": 4.7,
@@ -147,7 +147,7 @@
       {
         "id": 17,
         "name": "Pla Nueng Manao",
-        "image": "pla_nueng_manao.jpg",
+        "image": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "ingredients": ["Fish", "Lime Juice", "Chili", "Cilantro", "Fish Sauce"],
         "cooking_method": "Pla Nueng Manao, or Steamed Fish with Lime Sauce, is a delicate and refreshing Thai dish that highlights the purity of flavors. Fresh fish is gently steamed to perfection, resulting in tender and flaky meat. The fish is then topped with a zesty sauce made from lime juice, chili, and fish sauce. Fresh cilantro leaves provide a burst of herbal aroma and visual appeal. Pla Nueng Manao is a light yet flavorful option that showcases the natural goodness of the ingredients.",
         "rating": 4.6,
@@ -156,7 +156,7 @@
       {
         "id": 18,
         "name": "Kao Soi",
-        "image": "kao_soi.jpg",
+        "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "ingredients": ["Egg Noodles", "Chicken", "Coconut Milk", "Curry Paste", "Pickled Mustard Greens"],
         "cooking_method": "Kao Soi is a hearty and aromatic Thai noodle soup that brings together a tantalizing combination of textures and flavors. Egg noodles are served in a rich and creamy coconut milk-based curry broth. Tender pieces of chicken are simmered in the flavorful curry paste, while pickled mustard greens add a touch of tanginess and crunch. Kao Soi is often garnished with crispy fried noodles and aromatic herbs, creating a satisfying and comforting bowl of goodness.",
         "rating": 4.8,
@@ -165,7 +165,7 @@
       {
         "id": 19,
         "name": "Laab Gai",
-        "image": "laab_gai.jpg",
+        "image": "https://images.unsplash.com/photo-1618449840665-9ed506d73a34?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
         "ingredients": ["Ground Chicken", "Lime Juice", "Chili", "Mint Leaves", "Shallots"],
         "cooking_method": "Laab Gai, or Thai Chicken Salad, is a vibrant and bold dish that bursts with flavors. Ground chicken is cooked and then tossed with a zesty dressing made from lime juice, chili, and fish sauce. A generous amount of fresh mint leaves and sliced shallots are added to the salad, providing an invigorating herbal aroma. Laab Gai is often enjoyed with sticky rice and is known for its satisfying combination of spicy, tangy, and herbaceous notes.",
         "rating": 4.7,
@@ -174,7 +174,7 @@
       {
         "id": 20,
         "name": "Kai Med Ma Muang",
-        "image": "kai_med_ma_muang.jpg",
+        "image": "https://images.unsplash.com/photo-1503764654157-72d979d9af2f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=874&q=80",
         "ingredients": ["Chicken", "Cashew Nuts", "Bell Peppers", "Onions", "Soy Sauce"],
         "cooking_method": "Kai Med Ma Muang, or Thai Cashew Chicken, is a delightful stir-fry dish that offers a delightful contrast of flavors and textures. Tender pieces of chicken are stir-fried with crunchy cashew nuts, colorful bell peppers, and sliced onions. The dish is seasoned with soy sauce for a savory umami kick. The combination of tender chicken, crispy nuts, and vibrant vegetables makes Kai Med Ma Muang a popular and satisfying choice.",
         "rating": 4.6,
@@ -183,7 +183,7 @@
       {
         "id": 21,
         "name": "Pad Prik King",
-        "image": "pad_prik_king.jpg",
+        "image": "https://images.unsplash.com/photo-1504669221159-56caf7b07f57?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "ingredients": ["Green Beans", "Pork", "Red Curry Paste", "Kaffir Lime Leaves", "Fish Sauce"],
         "cooking_method": "Pad Prik King is a flavorful and spicy Thai stir-fry dish that showcases a harmony of bold and aromatic ingredients. Crisp green beans are stir-fried with tender pork and a zesty red curry paste. Fragrant kaffir lime leaves contribute a burst of citrusy aroma, while fish sauce adds a savory depth. The result is a dish that's both visually appealing and explosively flavorful, perfect for those who enjoy a touch of heat.",
         "rating": 4.7,
@@ -192,7 +192,7 @@
       {
         "id": 22,
         "name": "Tom Kha Gai",
-        "image": "tom_kha_gai.jpg",
+        "image": "https://images.unsplash.com/photo-1615444814761-5b6b5fbb2288?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "ingredients": ["Chicken", "Coconut Milk", "Galangal", "Lemongrass", "Kaffir Lime Leaves"],
         "cooking_method": "Tom Kha Gai is a velvety and aromatic Thai soup that offers a delicate balance of flavors. Tender chicken is simmered in a fragrant broth made from creamy coconut milk, galangal, lemongrass, and kaffir lime leaves. The result is a comforting and soothing soup that's characterized by its creamy texture and citrusy aroma. Tom Kha Gai is a popular choice for those seeking a nourishing and satisfying bowl of soup.",
         "rating": 4.6,
@@ -201,7 +201,7 @@
       {
         "id": 23,
         "name": "Pad Thai Goong Sod",
-        "image": "pad_thai_goong_sod.jpg",
+        "image": "https://images.unsplash.com/photo-1615444814527-f5ebbea2cadb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "ingredients": ["Rice Noodles", "Shrimp", "Eggs", "Bean Sprouts", "Tamarind Sauce"],
         "cooking_method": "Pad Thai Goong Sod is a variation of the classic Pad Thai dish, featuring succulent shrimp as the star ingredient. Rice noodles are stir-fried with tender shrimp, scrambled eggs, and crunchy bean sprouts. The dish is flavored with a delectable tamarind-based sauce that adds a delightful sweet and tangy note. The result is a tantalizing blend of textures and flavors that's sure to satisfy any Pad Thai lover.",
         "rating": 4.7,
@@ -210,7 +210,7 @@
       {
         "id": 24,
         "name": "Kai Jeow Moo Sab",
-        "image": "kai_jeow_moo_sab.jpg",
+        "image": "https://images.unsplash.com/photo-1454334281609-87a89762912c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=385&q=80",
         "ingredients": ["Ground Pork", "Eggs", "Fish Sauce", "Green Onions", "Chili"],
         "cooking_method": "Kai Jeow Moo Sab, or Thai Pork Omelette, is a simple and satisfying dish that's beloved for its comforting flavors. Ground pork is mixed with eggs and seasoned with fish sauce, creating a flavorful omelette. The dish is often served with steamed rice and a dipping sauce, making it a popular option for breakfast or any time of day. The combination of fluffy eggs and savory pork makes Kai Jeow Moo Sab a true comfort food staple.",
         "rating": 4.5,
@@ -219,7 +219,7 @@
       {
         "id": 25,
         "name": "Panaeng Curry",
-        "image": "panaeng_curry.jpg",
+        "image": "https://images.unsplash.com/photo-1577859623802-b5e3ca51f885?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
         "ingredients": ["Beef", "Panaeng Curry Paste", "Coconut Milk", "Kaffir Lime Leaves", "Thai Basil"],
         "cooking_method": "Panaeng Curry is a luxurious and aromatic Thai curry that's known for its rich and intense flavors. Tender beef is simmered in a velvety panaeng curry sauce made from a special curry paste and creamy coconut milk. Fragrant kaffir lime leaves and Thai basil leaves add layers of herbal aroma and complexity. Panaeng Curry offers a harmonious balance of spicy, sweet, and savory notes, making it a true delight for curry enthusiasts.",
         "rating": 4.8,
@@ -228,7 +228,7 @@
       {
         "id": 26,
         "name": "Som Tum Thai",
-        "image": "som_tum_thai.jpg",
+        "image": "https://images.unsplash.com/photo-1478749485505-2a903a729c63?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "ingredients": ["Green Papaya", "Carrots", "Tomatoes", "Long Beans", "Peanuts"],
         "cooking_method": "Som Tum Thai is a delightful variation of the classic Green Papaya Salad that offers a burst of refreshing flavors. Shredded green papaya is combined with vibrant ingredients such as carrots, tomatoes, and long beans. The salad is dressed with a zesty and tangy sauce that features a blend of lime juice, fish sauce, and chili. A sprinkle of crushed peanuts adds a delightful crunch and nuttiness to each bite. Som Tum Thai is a vibrant and colorful salad that's perfect for those seeking a light and invigorating dish.",
         "rating": 4.6,
@@ -237,7 +237,7 @@
       {
         "id": 27,
         "name": "Pad Kra Pao Moo Krob",
-        "image": "pad_kra_pao_moo_krob.jpg",
+        "image": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
         "ingredients": ["Crispy Pork Belly", "Thai Basil", "Chili", "Garlic", "Fish Sauce"],
         "cooking_method": "Pad Kra Pao Moo Krob, or Crispy Pork Belly with Basil Stir-Fry, is a flavor-packed Thai dish that's famous for its irresistible combination of textures. Crispy pork belly is stir-fried with fragrant Thai basil, spicy chili, and pungent garlic. The dish is seasoned with fish sauce for a savory umami kick. The result is a hearty and aromatic stir-fry that's both visually appealing and explosively flavorful. The crispy pork and aromatic basil make this dish a true indulgence.",
         "rating": 4.7,
@@ -246,7 +246,7 @@
       {
         "id": 28,
         "name": "Gaeng Som",
-        "image": "gaeng_som.jpg",
+        "image": "https://images.unsplash.com/photo-1512003867696-6d5ce6835040?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "ingredients": ["Fish", "Tamarind", "Turmeric", "Chili", "Vegetables"],
         "cooking_method": "Gaeng Som is a tangy and vibrant Thai curry that's characterized by its sour and spicy flavors. Fresh fish is simmered in a flavorful broth made from tamarind, turmeric, and spicy chili. A variety of vegetables are added to the curry, creating a colorful and nutritious medley. Gaeng Som's sour notes are balanced by the natural sweetness of the fish and vegetables, resulting in a refreshing and invigorating curry experience.",
         "rating": 4.5,
@@ -255,7 +255,7 @@
       {
         "id": 29,
         "name": "Kao Pad Goong",
-        "image": "kao_pad_goong.jpg",
+        "image": "https://images.unsplash.com/photo-1501200040150-4d65c94e8f21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "ingredients": ["Jasmine Rice", "Shrimp", "Eggs", "Onions", "Soy Sauce"],
         "cooking_method": "Kao Pad Goong, or Thai Shrimp Fried Rice, is a flavorful and satisfying rice dish that's perfect for a quick and delicious meal. Fragrant jasmine rice is stir-fried with succulent shrimp, scrambled eggs, and sliced onions. The dish is seasoned with soy sauce, which imparts a savory and umami-rich flavor. Kao Pad Goong is often garnished with fresh herbs and lime wedges, adding a zesty and aromatic finish to the dish.",
         "rating": 4.6,
@@ -264,7 +264,7 @@
       {
         "id": 30,
         "name": "Pad Siew",
-        "image": "pad_siew.jpg",
+        "image": "https://images.unsplash.com/photo-1547928578-bca3e9c5a0ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
         "ingredients": ["Flat Rice Noodles", "Chicken", "Broccoli", "Soy Sauce", "Dark Soy Sauce"],
         "cooking_method": "Pad Siew is a delightful Thai noodle stir-fry that offers a delectable blend of textures and flavors. Flat rice noodles are stir-fried with tender chicken, crisp broccoli florets, and a savory combination of soy sauce and dark soy sauce. The dark soy sauce imparts a rich color and depth of flavor to the dish. The result is a comforting and flavorful noodle stir-fry that's both satisfying and delicious.",
         "rating": 4.7,
@@ -273,7 +273,7 @@
       {
       "id": 31,
       "name": "Khao Niew Mamuang",
-      "image": "khao_niew_mamuang.jpg",
+      "image": "https://images.unsplash.com/photo-1511910849309-0dffb8785146?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
       "ingredients": ["Sticky Rice", "Mango", "Coconut Milk", "Sugar", "Sesame Seeds"],
       "cooking_method": "Khao Niew Mamuang, or Thai Sticky Rice with Mango, is a beloved dessert that celebrates the natural sweetness of ripe mangoes and the comforting richness of sticky rice. The sticky rice is cooked until tender and then drizzled with a luscious coconut milk sauce. Slices of ripe mango are artfully arranged on top, adding a burst of color and sweetness. A sprinkle of toasted sesame seeds provides a delightful nutty crunch and completes this delightful dessert.",
       "rating": 4.9,
@@ -282,7 +282,7 @@
     {
         "id": 32,
         "name": "Tom Kha Hed",
-        "image": "tom_kha_hed.jpg",
+        "image": "https://images.unsplash.com/photo-1637024696628-02cb19cc1829?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=917&q=80",
         "ingredients": ["Mushrooms", "Coconut Milk", "Galangal", "Lemongrass", "Kaffir Lime Leaves"],
         "cooking_method": "Tom Kha Hed is a delightful Thai soup that highlights the exquisite flavors of mushrooms and aromatic herbs. A medley of mushrooms is simmered in a fragrant broth made from creamy coconut milk, galangal, lemongrass, and kaffir lime leaves. The result is a comforting and soothing soup that's characterized by its velvety texture and citrusy aroma. Tom Kha Hed offers a delightful balance of flavors and aromas, making it a popular choice for those seeking a nourishing and flavorful bowl of soup.",
         "rating": 4.6,

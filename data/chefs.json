@@ -3,74 +3,83 @@
       {
         "id": 1,
         "name": "Somsri Wong",
-        "picture": "somsri_wong.jpg",
+        "picture": "https://images.unsplash.com/photo-1581349485608-9469926a8e5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
         "years_of_experience": 6,
         "number_of_recipes": 5,
-        "number_of_likes": 25000
+        "number_of_likes": 25000,
+        "description": "Chef Somchai is a master of authentic Thai cuisine, with a culinary journey spanning over 8 years. He has honed his skills in some of the finest kitchens across Thailand, passionately perfecting traditional recipes and techniques. Known for his meticulous attention to detail and commitment to preserving the true flavors of Thai dishes, Chef Somchai brings a taste of Thailand's rich culinary heritage to every plate."
       },
       {
         "id": 2,
         "name": "Chatchai Phanom",
-        "picture": "chatchai_phanom.jpg",
+        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=377&q=80",
         "years_of_experience": 9,
         "number_of_recipes": 4,
-        "number_of_likes": 31000
+        "number_of_likes": 31000,
+        "description": "Chef Chatchai Phanom is a guardian of royal Thai cuisine, preserving the traditional recipes and techniques that have graced Thailand's royal tables for centuries. With a wealth of knowledge passed down through generations, he has spent 13 years mastering the intricacies of royal Thai dishes. Chef Chatchai Phanom's creations pay homage to the elegance and sophistication of Thai culinary heritage."
       },
       {
         "id": 3,
         "name": "Achara Tantivit",
-        "picture": "achara_tantivit.jpg",
+        "picture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "years_of_experience": 4,
         "number_of_recipes": 6,
-        "number_of_likes": 18500
+        "number_of_likes": 18500,
+        "description": "Driven by a love for Thai street food, Chef Achara Tantivit has dedicated 7 years to perfecting the art of recreating beloved street food classics in a refined and elevated manner. His dishes capture the essence of Thailand's vibrant street food culture while adding a touch of sophistication. Chef Achara Tantivit's creations are a nostalgic journey through the bustling streets of Thailand's culinary heart."
       },
       {
         "id": 4,
         "name": "Narongrit Chaiwong",
-        "picture": "narongrit_chaiwong.jpg",
+        "picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "years_of_experience": 2,
         "number_of_recipes": 3,
-        "number_of_likes": 12500
+        "number_of_likes": 12500,
+        "description": "Chef Narongrit Chaiwong is a culinary artist renowned for his intricate and visually stunning Thai plating techniques. With 11 years of experience, he has mastered the art of creating dishes that are not only a treat for the taste buds but also a feast for the eyes. Chef Narongrit Chaiwong's creations are a harmonious blend of aesthetics and flavors, reflecting his dedication to culinary craftsmanship."
       },
       {
         "id": 5,
         "name": "Pimchanok Prasit",
-        "picture": "pimchanok_prasit.jpg",
+        "picture": "https://images.unsplash.com/photo-1574966740429-6158cb530208?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "years_of_experience": 5,
         "number_of_recipes": 6,
-        "number_of_likes": 22000
+        "number_of_likes": 22000,
+        "description": "With a passion for farm-to-table dining, Chef Pimchanok Prasit is a proponent of sustainable and locally sourced Thai ingredients. Over 9 years, he has championed the use of fresh, seasonal produce in his dishes, elevating the farm-to-table movement in Thai cuisine. Chef Pimchanok Prasit's commitment to preserving the environment while creating exceptional flavors has earned him accolades in the culinary world."
       },
       {
         "id": 6,
         "name": "Vichan Pongsupa",
-        "picture": "vichan_pongsupa.jpg",
+        "picture": "https://images.unsplash.com/photo-1574966739518-0932fea93759?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "years_of_experience": 8,
         "number_of_recipes": 4,
-        "number_of_likes": 40000
+        "number_of_likes": 40000,
+        "description": "As a connoisseur of Thai desserts, Chef Vichan Pongsupa has spent 15 years perfecting the art of creating sweet delights that capture the essence of Thai flavors. His passion for combining classic techniques with innovative presentations has earned him a reputation as a dessert virtuoso. Chef Vichan Pongsupa's creations are a celebration of Thailand's rich culinary heritage, offering a symphony of flavors and textures."
       },
       {
         "id": 7,
         "name": "Somchai Charoen",
-        "picture": "somchai_charoen.jpg",
+        "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "years_of_experience": 7,
         "number_of_recipes": 5,
-        "number_of_likes": 28000
+        "number_of_likes": 28000,
+        "description": "Chef Pim's expertise lies in the art of crafting traditional Thai curries that have been passed down through generations. With over 12 years of experience, she has mastered the intricate balance of spices and herbs that make each curry a culinary masterpiece. Chef Pim's commitment to preserving the authenticity of Thai curries while adding her personal touch ensures that her creations are a true testament to the rich heritage of Thai cuisine."
       },
       {
         "id": 8,
         "name": "Nittaya Khamphong",
-        "picture": "nittaya_khamphong.jpg",
+        "picture": "https://images.unsplash.com/photo-1565608087341-404b25492fee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "years_of_experience": 3,
         "number_of_recipes": 4,
-        "number_of_likes": 15000
+        "number_of_likes": 15000,
+        "description": "With a fiery passion for bold flavors, Chef Nittaya Khamphong has spent a decade crafting tantalizing and spicy Thai delicacies. Having grown up in a family deeply rooted in Thai culinary traditions, Chef Nittaya Khamphong blends tradition with innovation to create dishes that leave a memorable impression. His ability to balance intense spices with harmonious flavors has made him a sought-after chef for those seeking an adventurous culinary journey."
       },
       {
         "id": 9,
         "name": "Ananya Srikanchana",
-        "picture": "ananya_srikanchana.jpg",
+        "picture": "https://images.unsplash.com/photo-1595257841889-eca2678454e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "years_of_experience": 10,
         "number_of_recipes": 5,
-        "number_of_likes": 34000
+        "number_of_likes": 34000,
+        "description": "Chef Ananya is a master of authentic Thai cuisine, with a culinary journey spanning over 8 years. He has honed his skills in some of the finest kitchens across Thailand, passionately perfecting traditional recipes and techniques. Known for his meticulous attention to detail and commitment to preserving the true flavors of Thai dishes, Chef Somchai brings a taste of Thailand's rich culinary heritage to every plate."
       }
     ]
   }
